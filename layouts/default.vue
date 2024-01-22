@@ -16,7 +16,7 @@
   justify-content: center;
   #navigation {
     width: 100%;
-    max-width: 300px;
+    max-width: 100px;
   }
   #main {
     flex: 1 1 0%;
