@@ -19,10 +19,10 @@ const category = ref<ICategory[]>([
     path: "/smilegate",
   },
   {
-    name: "NCSOFT",
-    key: "ncsoft",
-    img: "icons/ncsoft.png",
-    path: "/ncsoft",
+    name: "NEOPLE",
+    key: "neople",
+    img: "icons/neople.png",
+    path: "/neople",
   },
   {
     name: "BLIZZARD",
